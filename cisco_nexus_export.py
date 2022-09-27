@@ -27,7 +27,6 @@ for i in nexus_list:
         "password": upassword,
     }
 
-    # vpn-session command we execute to logoff user
     show_cmd = ['sh run', 'sh ver']
     #show_cmd = ['show ip route vrf all']
 

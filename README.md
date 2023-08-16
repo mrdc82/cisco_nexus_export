@@ -3,6 +3,6 @@
 
 <h3>How-To</h3>
 ----------<br>
-Create a file containing ip's seperated on each line.
-Input your login credentials in the script.
-There are 2 show commands in the script. One is commented out. This was done so that the 2 show command outputs could be written to individual file. Uncomment to write to 1 file.
+Create a file containing ip's seperated on each line.<br>
+Input your login credentials in the script.<br>
+There are 2 show commands in the script. One is commented out. This was done so that the 2 show command outputs could be written to individual files. Uncomment to write to 1 file.<br>
